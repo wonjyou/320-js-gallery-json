@@ -1,0 +1,8 @@
+{
+  "images": [
+    { "src": "https://picsum.photos/800/800", "alt": "Random image 1" },
+    { "src": "https://picsum.photos/800/800?1", "alt": "Random image 2" },
+    { "src": "https://picsum.photos/800/800?2", "alt": "Random image 3" },
+    { "src": "https://picsum.photos/800/800?3", "alt": "Random image 4" }
+  ]
+}
